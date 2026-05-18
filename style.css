@@ -79,8 +79,9 @@ footer {
 .testo {
     display: block;
     margin: 20px auto;
-    width: 100%;
-    max-width: 500px;
+    max-width: 100%;
+    width: 400px;
+    height: auto;
     border-radius: 10px;
 }
 body {
